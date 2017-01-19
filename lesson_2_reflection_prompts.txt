@@ -9,6 +9,8 @@ Staging area is a temporary location to add content before committing, it allows
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Using the git diff and git diff —staged we can look at the contents of the diffs we are working on, and determine how we want to break it up before committing to the repo.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
