@@ -13,6 +13,8 @@ Using the git diff and git diff —staged we can look at the contents of the dif
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When you are planning on making changes to the system that are radically different, and not ready yet to commit, and will take time to implement, validate, and test.
+The branch provides an area to keep this content separate but accessible to others as needed.
 
 How do the diagrams help you visualize the branch structure?
 
