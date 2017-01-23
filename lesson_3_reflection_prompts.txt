@@ -12,7 +12,7 @@ The reasons for this, include not ready to release the content, as in, you are w
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Fork is the same as a repository clone, but is a remote operation handled on GitHub or GitLab. Clones are a mirror or content either of a remote repository or a local repository. Branches and differences of content with a repository, either remote or local.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
