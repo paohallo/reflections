@@ -7,7 +7,7 @@ where you want to share content.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+The reasons for this, include not ready to release the content, as in, you are working on a feature, and you want to complete the feature before you want others to consume or modify that feature.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
