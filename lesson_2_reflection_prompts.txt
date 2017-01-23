@@ -21,6 +21,9 @@ The visualization can allow you to see where you are, and what others are workin
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The merge of two branches is where the content of two separate streams of development are combined into one. Commits between the two branches will be intermixed based on timestamp. git show can be used to determine the specific changes for a single commit. 
+
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+The main issue with making git to clever on automatic merging, is that it could potentially causes more issues. The experts in the code are those working on it (in most cases), and if there are issues the conflicting developer commits can be worked out with a little discussion.
